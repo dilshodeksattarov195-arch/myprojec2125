@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdtringify",
+        "uuid": 12650125,
+        "checksum": "fvvf9f"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
